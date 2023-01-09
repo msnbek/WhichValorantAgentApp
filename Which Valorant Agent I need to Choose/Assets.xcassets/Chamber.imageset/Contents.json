@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Chamber_VALORANT_Portrait.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Chamber_VALORANT_Portrait@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Chamber_VALORANT_Portrait@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
