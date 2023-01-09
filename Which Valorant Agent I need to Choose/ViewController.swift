@@ -33,6 +33,7 @@ class ViewController: UIViewController {
         
         timer?.invalidate()
         timer = Timer.scheduledTimer(timeInterval: 0.1, target: self, selector: #selector(randomImageRepeat), userInfo: nil, repeats: true)
+        
     }
     
     @objc func randomImageRepeat() {
